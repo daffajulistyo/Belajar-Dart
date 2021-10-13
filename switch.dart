@@ -22,7 +22,7 @@ main(){
       break;
     }
     case "kamis" :{
-      pesan = "No Life No Reply";
+      pesan = "No Life No Reply party";
       break;
     }
     case "jumat" :{
